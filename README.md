@@ -7,7 +7,7 @@ This plans to be a framwork that provides feature for continous preview of stuff
 - Continous preview of Markdown documents
 - Continous build of a project
 
-It should consists of 3 parts:
+It should consist of 3 parts:
 - Provider
 - Processor
 - Publisher
